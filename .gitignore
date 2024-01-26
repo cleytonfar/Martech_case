@@ -1,0 +1,8 @@
+*~
+__*
+*.ipynb
+*.qmd
+#*
+.jupyter*
+*.Rproj*
+.Rproj.user
